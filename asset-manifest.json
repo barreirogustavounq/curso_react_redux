@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/curso_react_redux/static/css/main.255e82e9.chunk.css",
+    "main.js": "/curso_react_redux/static/js/main.42120a71.chunk.js",
+    "main.js.map": "/curso_react_redux/static/js/main.42120a71.chunk.js.map",
+    "runtime-main.js": "/curso_react_redux/static/js/runtime-main.858f0e6b.js",
+    "runtime-main.js.map": "/curso_react_redux/static/js/runtime-main.858f0e6b.js.map",
+    "static/css/2.150d169a.chunk.css": "/curso_react_redux/static/css/2.150d169a.chunk.css",
+    "static/js/2.789f5db0.chunk.js": "/curso_react_redux/static/js/2.789f5db0.chunk.js",
+    "static/js/2.789f5db0.chunk.js.map": "/curso_react_redux/static/js/2.789f5db0.chunk.js.map",
+    "static/js/3.fa5dd551.chunk.js": "/curso_react_redux/static/js/3.fa5dd551.chunk.js",
+    "static/js/3.fa5dd551.chunk.js.map": "/curso_react_redux/static/js/3.fa5dd551.chunk.js.map",
+    "index.html": "/curso_react_redux/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/curso_react_redux/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.255e82e9.chunk.css.map": "/curso_react_redux/static/css/main.255e82e9.chunk.css.map",
+    "static/js/2.789f5db0.chunk.js.LICENSE.txt": "/curso_react_redux/static/js/2.789f5db0.chunk.js.LICENSE.txt",
+    "static/media/dog-1.3cd737f7.png": "/curso_react_redux/static/media/dog-1.3cd737f7.png",
+    "static/media/dog-2.7de89128.png": "/curso_react_redux/static/media/dog-2.7de89128.png",
+    "static/media/dog-3.9bea0312.png": "/curso_react_redux/static/media/dog-3.9bea0312.png",
+    "static/media/dog-4.6089af73.png": "/curso_react_redux/static/media/dog-4.6089af73.png",
+    "static/media/dog-5.f3a60488.png": "/curso_react_redux/static/media/dog-5.f3a60488.png",
+    "static/media/dog-6.5cf0e752.png": "/curso_react_redux/static/media/dog-6.5cf0e752.png",
+    "static/media/dog-7.a7266ca0.png": "/curso_react_redux/static/media/dog-7.a7266ca0.png",
+    "static/media/dog-8.54874b7f.png": "/curso_react_redux/static/media/dog-8.54874b7f.png",
+    "static/media/dog-9.9d7a6bdb.png": "/curso_react_redux/static/media/dog-9.9d7a6bdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.858f0e6b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.789f5db0.chunk.js",
+    "static/css/main.255e82e9.chunk.css",
+    "static/js/main.42120a71.chunk.js"
+  ]
+}
